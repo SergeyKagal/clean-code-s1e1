@@ -87,7 +87,7 @@ button:hover {
   text-transform: uppercase;
 }
 
-input[type="text"] {
+.task {
   margin: 0;
   font-size: 18px;
   line-height: 18px;
@@ -100,7 +100,7 @@ input[type="text"] {
   color: #888;
 }
 
-input[type="text"]:focus {
+.task:focus {
   color: #333;
 }
 
